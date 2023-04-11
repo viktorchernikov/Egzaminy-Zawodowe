@@ -6,39 +6,30 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="stylesheet" href="css/bootstrap.css"/>
-        <style>
-            :root{
-                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-                line-height: 14pt;
-                background-color: #202222;
-                color: white;
-            }
-            h2{
-                user-select: none;
-            }
-            a{
-                text-decoration: unset;
-                color: #6572fb;
-                font-weight: bold;
-            }
-            #container {
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                height: 95vh;
-                text-align: center;
-            }
-            #badge{
-                position: fixed;
-            }
-        </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
-        <img id="badge" src="https://img.shields.io/github/stars/viktorchernikov/Egzaminy-Zawodowe?style=social"/>
-        <div id="container">
-            <div>
-                <h2>Strona aktualnie jest w budowie.</h2>
-                <p>W sprawie współpracy proszę pisać na mój adres email: <a href="mailto:viktor.chernikov@onet.pl?subject=Wsp%C3%B3%C5%82praca">viktor.chernikov@onet.pl</a></p>
+        <div class="container-fluid h-auto">
+            <nav class="navbar navbar-expand-sm">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="#">EGZAMINY ZAWODOWE</a>
+                    </div>
+                    <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link active" href="#">Główna</a></li>
+                        <li><a class="nav-link" href="pages/inf03.html">INF.03</a></li>
+                        <li><a class="nav-link" href="pages/contact.html">KONTAKT</a></li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="jumbotron jumbotron-fluid">
+                <div class="container">
+                    <h1 class="display-4">Witaj!</h1>
+                    <p class="lead">Znajdziesz tu bazę egzaminów zawodowych CKE z ostatnich lat która pozwoli Ci przygotować się do egzaminu. Wybierz poniżej kwalifikację, a następnie pobierz potrzebny ci arkusz, materiały, a nawet rozwiązanie!</p>
+                    <hr class="my-4">
+                    <p>Zobacz arkusze:</p>
+                    <a class="btn btn-primary btn-lg" href="pages/inf03.html" role="button">INF.03</a>
+                </div>
             </div>
         </div>
         <script src="js/bootstrap.bundle.js"></script>
