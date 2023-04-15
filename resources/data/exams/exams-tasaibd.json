@@ -1,0 +1,82 @@
+[
+    {
+        "year": 2021,
+        "job": 2,
+        "season": 2,
+        "title": "RESTAURACJA \"WSZYSTKIE SMAKI\"",	
+        "exno": 1,
+        "lang": 1
+    },
+    {
+        "year": 2022,
+        "job": 2,
+        "season": 0,
+        "title": "RESTAURACJA \"WSZYSTKIE SMAKI\"",	
+        "exno": 1,
+        "lang": 1
+    },
+    {
+        "year": 2022,
+        "job": 2,
+        "season": 2,
+        "title": "ZAWODY WĘDKARSKIE",	
+        "exno": 3,
+        "lang": 1
+    },
+    {
+        "year": 2022,
+        "job": 2,
+        "season": 2,
+        "title": "STACJA PALIW",	
+        "exno": 2,
+        "lang": 0
+    },
+    {
+        "year": 2022,
+        "job": 2,
+        "season": 2,
+        "title": "PORTAL DLA WĘDKARZY",	
+        "exno": 1,
+        "lang": 1
+    },
+    {
+        "year": 2023,
+        "job": 2,
+        "season": 0,
+        "title": "KALENDARZ",
+        "exno": 5,
+        "lang": 1
+    },
+    {
+        "year": 2023,
+        "job": 2,
+        "season": 0,
+        "title": "BIURO TURYSTYCZNE",
+        "exno": 4,
+        "lang": 1
+    },
+    {
+        "year": 2023,
+        "job": 2,
+        "season": 0,
+        "title": "KWIACIARNIA",
+        "exno": 3,
+        "lang": 1
+    },
+    {
+        "year": 2023,
+        "job": 2,
+        "season": 0,
+        "title": "WYNAJEM",
+        "exno": 2,
+        "lang": 1
+    },
+    {
+        "year": 2023,
+        "job": 2,
+        "season": 0,
+        "title": "MALARZ",
+        "exno": 1,
+        "lang": 0
+    }
+]
